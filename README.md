@@ -110,7 +110,7 @@ The screenshots below use fictional portfolio data that follows the same structu
 
 The workflow starts with a master spreadsheet containing order records across multiple clients.
 
-![Anonymized monthly order data](screenshots/01-raw-order-data.png)
+![Anonymized monthly order data](01-raw-order-data.png)
 
 *Fictional portfolio dataset representing the structure of the monthly production order spreadsheet.*
 
