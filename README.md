@@ -126,7 +126,7 @@ The VBA workflow cleans and standardizes the source data, then separates the ord
 
 After client-level processing and print formatting, the automation exports an individual PDF report for each client.
 
-![Generated client PDF reports](screenshots/03-final-client-pdf.png)
+![Generated client PDF reports](03-Generated PDF Reports.png)
 
 *Example of automatically generated client-specific PDF reports using fictional portfolio data.*
 
