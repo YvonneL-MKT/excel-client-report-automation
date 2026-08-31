@@ -102,6 +102,35 @@ The operational workflow was reduced to:
 **Download Monthly Order Spreadsheet → Open in Excel → Run VBA Automation → Generate Client PDFs**
 
 ---
+## Demo
+
+The screenshots below use fictional portfolio data that follows the same structure and workflow as the production dataset. No actual client or production order data is shown.
+
+### 1. Monthly Order Data
+
+The workflow starts with a master spreadsheet containing order records across multiple clients.
+
+![Anonymized monthly order data](screenshots/01-raw-order-data.png)
+
+*Fictional portfolio dataset representing the structure of the monthly production order spreadsheet.*
+
+### 2. Automated Client Report Generation
+
+The VBA workflow cleans and standardizes the source data, then separates the orders into individual client worksheets.
+
+![VBA-generated client worksheets](screenshots/02-client-worksheets.png)
+
+*Example of client-specific worksheets automatically generated from the master order data.*
+
+### 3. Generated PDF Reports
+
+After client-level processing and print formatting, the automation exports an individual PDF report for each client.
+
+![Generated client PDF reports](screenshots/03-final-client-pdf.png)
+
+*Example of automatically generated client-specific PDF reports using fictional portfolio data.*
+
+---
 
 ## Key Implementation
 
