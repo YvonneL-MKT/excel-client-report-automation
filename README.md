@@ -118,7 +118,7 @@ The workflow starts with a master spreadsheet containing order records across mu
 
 The VBA workflow cleans and standardizes the source data, then separates the orders into individual client worksheets.
 
-![VBA-generated client worksheets](screenshots/02-client-worksheets.png)
+![VBA-generated client worksheets](02-client-worksheets.png)
 
 *Example of client-specific worksheets automatically generated from the master order data.*
 
